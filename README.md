@@ -1,3 +1,3 @@
-# Advanced-feature-learning-machanisms
+# Advanced-feature-learning-mechanisms
 
 clustering， manifold
