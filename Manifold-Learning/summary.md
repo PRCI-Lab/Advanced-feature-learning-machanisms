@@ -13,6 +13,7 @@
 ### SymNet: A Simple Symmetric Positive Definite Manifold Deep Learning Method for Image Set Classification
 *Rui Wang, Xiaojun Wu, Josef Kittler, ***IEEE TNNLS***, 2022.
 #### [[Paper](https://ieeexplore.ieee.org/document/9390301/)]   [[Code](https://github.com/GitWR/SymNet)]
+---
 
 ### Hybrid Riemannian Graph-Embedding Metric Learning for Image Set Classification
 *Ziheng Chen, Tianyang Xu, Xiaojun Wu, Rui Wang, Josef Kittler, ***IEEE TBD***
