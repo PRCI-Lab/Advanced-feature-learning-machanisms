@@ -16,5 +16,5 @@
 ---
 
 ### Hybrid Riemannian Graph-Embedding Metric Learning for Image Set Classification
-*Ziheng Chen, Tianyang Xu, Xiaojun Wu, Rui Wang, Josef Kittler, ***IEEE TBD***
+*Ziheng Chen, Tianyang Xu, Xiaojun Wu, Rui Wang, Josef Kittler, ***IEEE TBD***, 2023.
 #### [[Paper](https://ieeexplore.ieee.org/document/9540380)]
