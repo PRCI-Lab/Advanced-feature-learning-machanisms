@@ -45,13 +45,13 @@
 ---
 
 ### GrasNet: A Simple Grassmannian Network for Image Set Classification
-*Rui Wang, Xiao-Jun Wu,  ***Neural Process. Lett.***, 2020.
+*Rui Wang, Xiao-Jun Wu, ***Neural Process. Lett.***, 2020.
 #### [[Paper](https://link.springer.com/article/10.1007/s11063-020-10276-x)]
 
 ---
 
 ### Discriminative block-diagonal covariance descriptors for image set classification
-*Jieyi Ren, Xiao-Jun Wu, Josef Kittler， ***Pattern Recognit. Lett.***, 2020.
+*Jieyi Ren, Xiao-Jun Wu, Josef Kittler, ***Pattern Recognit. Lett.***, 2020.
 #### [[Paper](https://linkinghub.elsevier.com/retrieve/pii/S0167865520301951)]
 
 ---
