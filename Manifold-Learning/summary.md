@@ -17,19 +17,24 @@
 
 ### Hybrid Riemannian Graph-Embedding Metric Learning for Image Set Classification
 *Ziheng Chen, Tianyang Xu, Xiaojun Wu, Rui Wang, Josef Kittler, ***IEEE TBD***, 2023.
-#### [[Paper](https://ieeexplore.ieee.org/document/9540380)]
-
----
-
-### Geometry-Aware Graph Embedding Projection Metric Learning for Image Set Classification
-*Rui Wang, Xiaojun Wu, Zhen Liu, Josef Kittler, ***IEEE TCDS***, 2022.
-#### [[Paper](https://ieeexplore.ieee.org/document/9447767)]
+#### [[Paper](https://ieeexplore.ieee.org/document/9540380)]  [[Code](https://github.com/GitZH-Chen/HRGEML-v-1)]
 
 ---
 
 ### Graph Embedding Multi-Kernel Metric Learning for Image Set Classification With Grassmannian Manifold-Valued Features
 *Rui Wang, Xiao-Jun Wu, Josef Kittler, ***IEEE TMM***, 2021.
 #### [[Paper](https://ieeexplore.ieee.org/document/9040639)]
+
+---
+
+### Geometry-Aware Graph Embedding Projection Metric Learning for Image Set Classification
+*Rui Wang, Xiaojun Wu, Zhen Liu, Josef Kittler, ***IEEE TCDS***, 2022.
+#### [[Paper](https://ieeexplore.ieee.org/document/9447767)]
+---
+
+### Multiple Riemannian Manifold-valued Descriptors based Image Set Classification with Multi-Kernel Metric Learning
+*Rui Wang, Xiao-Jun Wu, Josef Kittler, ***IEEE TBD***, 2022.
+#### [[Paper](https://arxiv.org/abs/1908.01950)]  [[Code](https://github.com/GitWR/MRMML-v1.0)]
 
 ---
 
@@ -53,19 +58,19 @@
 
 ### More About Covariance Descriptors for Image Set Coding: Log-Euclidean Framework Based Kernel Matrix Representation
 *Kai-Xuan Chen, Xiao-Jun Wu, Jie-Yi Ren, Rui Wang, Josef Kittler, ***ICCV Workshops***, 2019.
-#### [[Paper](https://ieeexplore.ieee.org/document/9022081)]
+#### [[Paper](https://ieeexplore.ieee.org/document/9022081)]  [[Code](https://github.com/chenchkx/iCovDs)]
 
 ---
 
 ### Component SPD matrices: A low-dimensional discriminative data descriptor for image set classification
 *Kai-Xuan Chen, Xiao-Jun Wu, ***Comput. Vis. Media***, 2018.
-#### [[Paper](https://link.springer.com/article/10.1007/s41095-018-0119-7)]
+#### [[Paper](https://link.springer.com/article/10.1007/s41095-018-0119-7)]  [[Code](https://github.com/chenchkx/ComponentSPD)]
 
 ---
 
 ### Multiple Manifolds Metric Learning with Application to Image Set Classification
 *Rui Wang, Xiao-Jun Wu, Kai-Xuan Chen, Josef Kittler, ***ICPR***, 2018.
-#### [[Paper](https://ieeexplore.ieee.org/document/8546030)]
+#### [[Paper](https://ieeexplore.ieee.org/document/8546030)]  [[Code](https://github.com/GitWR/MMML)]
 
 ---
 
